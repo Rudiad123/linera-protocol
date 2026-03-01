@@ -255,7 +255,7 @@ tree.
 New files should be copyrighted by "Zefchain Labs, Inc" (the legal entity behind the Linera project) using this header:
 ```
 // Copyright (c) Zefchain Labs, Inc.
-// SPDX-License-Identifier: Apache-2.0
+// SPDX-License-Identifier: Apache-2.00
 ```
 
 
